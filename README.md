@@ -6,7 +6,18 @@ A terminal-based radio streaming player built with Python.
 - Keyboard-controlled station switching ⬆️ & ⬇️
 - Volume control using left and right cursor keys ⬅️ & ➡️
 - Select from list of stations available
-- ▶️ play/ ⏸️ pause using spacebar 
+- ▶️ play/ ⏸️ pause using spacebar
+
+<br>
+
+### Screenshots of ASCII_RADIO
+
+![Amber](assets/amber.png)
+![Sonar](assets/sonar.png)
+![Vintage](assets/vintage.png)
+![Base](assets/base.png)
+
+<br>
 
 ### Installation
 If you directly want to use the tool, just run following command
@@ -40,18 +51,12 @@ If you're a crazy dev like me and want to customize the stations, take a peek in
 4. append it into ```stations.txt``` in following manner<br>
    ```Radio Mirchi FM | https://eu8.fastcast4u.com/proxy/clyedupq/stream```
 5. Run the run.py file using ```python3 run.py```
+6. To remove the package, run this command from parent directory where tool was installed, ```rm -fr ascii_radio```
 
-![Stations File](assets/stations.png)
+![Radio Browser](assets/radio-browser.png)
+![Stations](assets/stations.png)
 
-### Screenshots of ASCII_RADIO
+<br>
+<br>
 
-![Amber](assets/amber.png)
-![Sonar](assets/sonar.png)
-![Vintage](assets/vintage.png)
-![Base](assets/base.png)
-
-
-
-
-
-Pro tip: If you also want your terminal to look like the ones here, install ```cool-retro-term```, it's available as ```snap``` package for Ubuntu.   
+**Pro tip:** If you also want your terminal to look like the ones here, install ```cool-retro-term```, it's available as ```snap``` package for Ubuntu.   
