@@ -1,4 +1,4 @@
-# ascii-radio
+# ASCII Radio
 
 A terminal-based radio streaming player built with Python.
 
