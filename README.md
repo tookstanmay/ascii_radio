@@ -38,7 +38,7 @@ pip uninstall ascii-radio
 
 To clone the repo follow these steps,
 ```bash
-git clone https://github.com/tookstanmay/ascii_radio
+git clone https://github.com/tookstanmay/ascii_radio.git
 cd ascii_radio
 pip install .
 ascii-radio
