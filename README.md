@@ -20,6 +20,10 @@ A terminal-based radio streaming player built with Python.
 <br>
 
 ### Installation
+**NOTE** : to make it work on windows PCs, install windows-curses using,
+```pip install windows-curses```
+<br>
+<br>
 If you directly want to use the tool, just run following command
 ```
 pip install git+https://github.com/tookstanmay/ascii_radio.git
