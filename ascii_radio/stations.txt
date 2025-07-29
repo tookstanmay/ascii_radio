@@ -1,17 +1,20 @@
-92.7 Big FM | https://stream.zeno.fm/dbstwo3dvhhtv
-93.5 Red FM | https://stream.zeno.fm/q97eczydqrhvv
-Vividh Bharathi | https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8
 Kishore Kumar Radio | https://stream.zeno.fm/0ghtfp8ztm0uv
 Lata Mangeshkar Radio | http://stream.zeno.fm/g95zm67prfhvv.m3u
 Mohammed Rafi Radio | https://stream.zeno.fm/6yqvumgfxtzuv
-Aakashvani Air FM Gold | https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
+92.7 Big FM | https://stream.zeno.fm/dbstwo3dvhhtv
+93.5 Red FM | https://stream.zeno.fm/q97eczydqrhvv
 Radio Mirchi 98.3 FM | https://eu8.fastcast4u.com/proxy/clyedupq/stream
-All India Radio News | https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
-BBC World Service | https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
-Aaj Tak Radio | https://feeds.intoday.in/aajtak/api/master.m3u8
+Radio City | https://stream-60.zeno.fm/pxc55r5uyc9uv?zs=xkD7f1ttQe20opARKqWXuA
 Bhakti Sagar FM | https://stream.zeno.fm/lcida9v81nmvv
-Radio City Hindi | https://stream-60.zeno.fm/pxc55r5uyc9uv?zs=xkD7f1ttQe20opARKqWXuA
 Sakkath Radio Kannada | https://node-31.zeno.fm/fcsk9ryerd0uv?rj-ttl=5&rj-tok=AAABdXnVZ3sA-61zQpwDIgRWvw
 AIR Pune FM | http://air.pc.cdn.bitgravity.com/air/live/pbaudio012/playlist.m3u8
 Radio Gujarati | http://air.pc.cdn.bitgravity.com/air/live/pbaudio135/playlist.m3u8
 AIR Indore | https://air.pc.cdn.bitgravity.com/air/live/pbaudio212/playlist.m3u8
+Radio Paradise Main | http://stream.radioparadise.com/aac-128
+Radio Paradise Rock | http://stream.radioparadise.com/rock-128
+Radio Paradise Serenity | http://stream.radioparadise.com/serenity
+BBC World Service | https://stream.live.vc.bbcmedia.co.uk/bbc_world_service
+Aakashvani Air FM Gold | https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio005_Auto.m3u8
+Aaj Tak Radio | https://feeds.intoday.in/aajtak/api/master.m3u8
+All India Radio News | https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio002/hlspbaudio002_Auto.m3u8
+Vividh Bharathi | https://air.pc.cdn.bitgravity.com/air/live/pbaudio001/playlist.m3u8

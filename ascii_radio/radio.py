@@ -37,7 +37,9 @@ def play_station(idx):
     return subprocess.Popen([
         "mpv", "--no-video", "--quiet", url,
         f"--volume={volume}",
-        f"--input-ipc-server={ipc_socket_path}"
+        f"--input-ipc-server={ipc_socket_path}",
+        f"--profile=low-latency",
+        f"--cache=yes"
     ], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 
 def stop_station():
